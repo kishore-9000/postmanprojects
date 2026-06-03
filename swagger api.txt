@@ -1,0 +1,19 @@
+{
+    "statusCode": 200,
+    "message": "OK",
+    "data": {
+        "userId": 444895,
+        "email": "kishorreddy@gmail.com",
+        "role": "SHOPPER",
+        "status": "ACTIVE",
+        "createdDateTime": null,
+        "firstName": "kishor",
+        "lastName": "Reddy",
+        "city": "Banglore",
+        "state": "Karnataka",
+        "country": "India",
+        "zoneId": "ALPHA",
+        "imageId": null,
+        "jwtToken": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJraXNob3JyZWRkeUBnbWFpbC5jb20gU0hPUFBFUiIsImV4cCI6MTc4MDMzMzg0MiwiaWF0IjoxNzgwMjk3ODQyfQ.Oh-rEFeF2ITyNNa7y9K5JUMgohSeOIbksJJEnwDwoco"
+    }
+}
