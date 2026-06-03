@@ -3,7 +3,7 @@
     "message": "OK",
     "data": {
         "userId": 444895,
-        "email": "kishorreddy@gmail.com",
+        "email": "kishrereddy@gmail.com",
         "role": "SHOPPER",
         "status": "ACTIVE",
         "createdDateTime": null,
